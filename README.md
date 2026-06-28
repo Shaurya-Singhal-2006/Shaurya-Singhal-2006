@@ -23,11 +23,11 @@
   
 <p align="center">
 
-  <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width = "240" />
+  <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width = "200" />
   
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Shaurya-Singhal-2006&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="410" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Shaurya-Singhal-2006&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="400" />
 
-  <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width = "240" />
+  <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width = "200" />
   
 </p>
 
