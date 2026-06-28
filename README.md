@@ -6,13 +6,34 @@
 # 💫 About Me:
 💻 Basic knowledge of C, Python, Java, HTML, CSS & JavaScript  <br>🌱 Currently learning Data Structures & Algorithms (DSA)  <br>🚀 Building small projects to improve my coding skills  <br>📚 Exploring Web Development and Object-Oriented Programming  <br>🤝 Open to collaborating on beginner-friendly tech projects  <br>💡 Always eager to learn new technologies and best practices  <br>🎵 Fun fact: I love coding with music 🎧
 
+<br>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shaurya-singhal-b37aaa376) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/32186716) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shauryasinghal206@gmail.com) 
 
+<br>
+
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Shaurya-Singhal-2006&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
+<br>
+
+# 📊 GitHub Stats:
+  
+<p align="center">
+
+  <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width = "275" />
+  
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Shaurya-Singhal-2006&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="450" />
+
+  <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width = "275" />
+  
+</p>
+
+<p align = "center">
+
+  <img src = "https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width = "1000" />
+
+</p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
