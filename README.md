@@ -38,6 +38,23 @@
 </p>
 
 
+<p align = "center">
+
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" width = "180" />
+
+  <img src = "https://streak-stats.demolab.com/?user=Shaurya-Singhal-2006&theme=dark&hide_border=true" width = "500" />
+
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" width = "180" />
+
+</p>
+
+<p align = "center">
+
+  <img src = "https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width = "1000" />
+
+</p>
+
+
 <div align="center">
 
 ![snake gif](https://github.com/Shaurya-Singhal-2006/Shaurya-Singhal-2006/blob/output/github-snake-dark.svg)
