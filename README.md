@@ -36,4 +36,11 @@
   <img src = "https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width = "1000" />
 
 </p>
+
+
+<div align="center">
+
+![snake gif](https://github.com/Shaurya-Singhal-2006/Shaurya-Singhal-2006/blob/output/github-snake-dark.svg)
+
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
