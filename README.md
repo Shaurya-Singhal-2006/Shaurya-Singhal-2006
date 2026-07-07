@@ -42,7 +42,7 @@
 
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" width = "180" />
 
-  <img src = "https://streak-stats.demolab.com/?user=Shaurya-Singhal-2006&theme=dark&hide_border=true" width = "500" />
+  <img src = "https://streak-stats.demolab.com/?user=Shaurya-Singhal-2006&theme=dark&hide_border=true" width = "440" />
 
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" width = "180" />
 
