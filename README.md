@@ -23,9 +23,9 @@
   
 <p align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="180" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Shaurya-Singhal-2006&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact&bg_color=00000000" width="440" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="180" />
 </p>
 <p align = "center">
@@ -37,9 +37,9 @@
 
 <p align = "center">
 
- <img src="https://streak-stats.demolab.com/?user=Shaurya-Singhal-2006&theme=dark&hide_border=true&background=00000000" width="450" />
+ <img src="https://streak-stats.demolab.com/?user=Shaurya-Singhal-2006&theme=dark&hide_border=true&background=00000000" width="350" />
 
-  <img src="https://github-readme-stats.shion.dev/api?username=Shaurya-Singhal-2006&theme=dark&hide_border=true&include_all_commits=false&count_private=false&bg_color=00000000" width="450" />
+  <img src="https://github-readme-stats.shion.dev/api?username=Shaurya-Singhal-2006&theme=dark&hide_border=true&include_all_commits=false&count_private=false&bg_color=00000000" width="350" />
 
 
 </p>
