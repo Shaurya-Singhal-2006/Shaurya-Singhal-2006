@@ -22,11 +22,11 @@
 # 📊 GitHub Stats:
   
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="180" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="150" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Shaurya-Singhal-2006&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact&bg_color=00000000" width="440" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Shaurya-Singhal-2006&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact&bg_color=00000000" width="400" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="180" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="150" />
 </p>
 <p align = "center">
 
