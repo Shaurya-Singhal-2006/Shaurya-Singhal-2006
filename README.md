@@ -13,7 +13,7 @@
 <br/>
 
 <a href="https://linkedin.com/in/shaurya-singhal-b37aaa376"><img src="https://img.shields.io/badge/LinkedIn-Connect-2b6fd6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1233" alt="LinkedIn"/></a>
-<a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME"><img src="https://img.shields.io/badge/LeetCode-Follow-ffa116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d1233" alt="LeetCode"/></a>
+<a href="https://leetcode.com/u/Shaurya-Singhal-2006"><img src="https://img.shields.io/badge/LeetCode-Follow-ffa116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d1233" alt="LeetCode"/></a>
 <a href="mailto:shauryasinghal206@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-ff3df2?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1233" alt="Email"/></a>
 
 </div>
@@ -79,5 +79,3 @@
 <br/>
 
 <img src="./assets/footer.svg" alt="Thanks for stopping by" width="100%"/>
-
-<!-- Assets live in ./assets as plain SVGs. Edit them directly, or tweak and re-run build_assets.py -->
