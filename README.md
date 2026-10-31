@@ -10,6 +10,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Pixel room coding GIF" width="100%"/>
 
 <br/>
+<br/>
 
 <a href="https://linkedin.com/in/shaurya-singhal-b37aaa376"><img src="https://img.shields.io/badge/LinkedIn-Connect-2b6fd6?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white&amp;labelColor=0d1233" alt="LinkedIn"/></a>
 <a href="https://leetcode.com/u/Shaurya-Singhal-2006"><img src="https://img.shields.io/badge/LeetCode-Follow-ffa116?style=for-the-badge&amp;logo=leetcode&amp;logoColor=white&amp;labelColor=0d1233" alt="LeetCode"/></a>
