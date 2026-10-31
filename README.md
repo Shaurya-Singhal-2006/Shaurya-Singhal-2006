@@ -3,6 +3,9 @@
 <img src="./assets/header.svg" alt="Shaurya Singhal - CSE Data Science student, DSA learner and web developer" width="100%"/>
 
 <br>
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
+<br>
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Pixel room coding GIF" width="100%"/>
 
