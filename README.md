@@ -19,7 +19,7 @@
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
-## 🕹️ Player Profile
+<h2>🕹️ Player Profile <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="36" alt="🔥"/></h2>
 
 <div align="center">
 
@@ -46,7 +46,7 @@
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
-## 🧰 Inventory (Tech Stack)
+<h2>🧰 Inventory (Tech Stack) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="36" alt="🔥"/></h2>
 
 <div align="center">
 <img src="./assets/skills.svg" alt="Skills and tech stack" width="100%"/>
@@ -54,7 +54,7 @@
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
-## 📊 Score Board
+<h2>📊 Score Board <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="36" alt="🔥"/></h2>
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=Shaurya-Singhal-2006&amp;show_icons=true&amp;hide_border=true&amp;card_width=495&amp;bg_color=0d1233&amp;title_color=ff3df2&amp;icon_color=5cc8ff&amp;text_color=e9e6ff&amp;ring_color=ff3df2" width="49%" align="top" alt="GitHub stats"/>
@@ -67,7 +67,7 @@
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
-## 🐍 Contribution Snake
+<h2>🐍 Contribution Snake <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="36" alt="🔥"/></h2>
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/Shaurya-Singhal-2006/Shaurya-Singhal-2006/output/github-snake-dark.svg" alt="Contribution snake animation" width="100%"/>
