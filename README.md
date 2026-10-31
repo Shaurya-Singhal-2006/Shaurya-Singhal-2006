@@ -1,6 +1,11 @@
 <div align="center">
 
+<img src="./assets/header.svg" alt="Shaurya Singhal - CSE Data Science student, DSA learner and web developer" width="100%"/>
+
+<br>
+
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Pixel room coding GIF" width="100%"/>
+
 
 <br/>
 
@@ -16,19 +21,24 @@
 
 <div align="center">
 <img src="./assets/terminal.svg" alt="Animated terminal introducing Shaurya" width="85%"/>
+
+<br/><br/>
+
+<table align="center">
+  <thead>
+    <tr>
+      <th align="left">🕹️ About</th>
+      <th align="left">Details</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>🎓 <b>Who I am</b></td><td>CSE (Data Science) student who loves building projects from scratch</td></tr>
+    <tr><td>🧠 <b>Learning</b></td><td>Data Structures &amp; Algorithms, Object-Oriented Programming, Web Development</td></tr>
+    <tr><td>🛠️ <b>Building</b></td><td>React web apps and small projects</td></tr>
+    <tr><td>🤝 <b>Open to</b></td><td>Collaborating on beginner-friendly projects</td></tr>
+  </tbody>
+</table>
 </div>
-
-<br/>
-
-| 🕹️ About | Details |
-|---|---|
-| 🎓 **Who I am** | Engineering student who loves the space where **code meets electronics** |
-| 🧠 **Learning** | Data Structures & Algorithms, Object-Oriented Programming, Web Development |
-| 🔌 **Coursework** | Digital Electronics, Microprocessors, Advanced Engineering Mathematics, DSA |
-| 🛠️ **Building** | React sites, algorithm simulations and rule-based tools |
-| 🤝 **Giving back** | Building useful tools for NGO work |
-| 💡 **Open to** | Collaborating on beginner-friendly tech projects |
-| 🎧 **Fun fact** | I code best with music on |
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
