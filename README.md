@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg" alt="Shaurya Singhal" width="100%"/>
+<img src="./assets/head.svg" alt="Shaurya Singhal" width="100%"/>
 
 <br>
 <img src="./assets/divider.svg" width="100%" alt=""/>
