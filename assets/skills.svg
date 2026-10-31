@@ -1,0 +1,143 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 466" width="1000" height="466" shape-rendering="crispEdges" role="img" aria-label="Skills and tech stack">
+  <defs><pattern id="sl" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#000" opacity="0.28"/></pattern></defs>
+<text x="24" y="26" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="13" font-weight="700" letter-spacing="3" fill="#8d9ad6">▸ LANGUAGES</text>
+<g transform="translate(24 40)"><g>
+  <animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" calcMode="discrete" keyTimes="0;0.5;1" dur="1.8s" begin="-0.0s" repeatCount="indefinite"/>
+  <path d="M4 0H52V4H56V32H52V36H4V32H0V4H4Z" fill="#0d1233"/>
+  <path d="M4 0H52V4H56V32H52V36H4V32H0V4H4Z" fill="#ff3df2" opacity="0.12"/>
+  <path d="M4 0H52V4H56V32H52V36H4V32H0V4H4Z" fill="url(#sl)"/>
+  <path d="M4 0H52V4H56V32H52V36H4V32H0V4H4Z" fill="none" stroke="#ff3df2" stroke-width="2"/>
+  <rect x="13" y="14.0" width="8" height="8" fill="#ff3df2"><animate attributeName="opacity" values="1;0.2" calcMode="discrete" dur="1.2s" begin="-0.0s" repeatCount="indefinite"/></rect>
+  <text x="31" y="23.0" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="14" font-weight="700" fill="#ff3df2">C</text>
+</g></g>
+<g transform="translate(92 40)"><g>
+  <animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" calcMode="discrete" keyTimes="0;0.5;1" dur="1.8s" begin="-0.2s" repeatCount="indefinite"/>
+  <path d="M4 0H78V4H82V32H78V36H4V32H0V4H4Z" fill="#0d1233"/>
+  <path d="M4 0H78V4H82V32H78V36H4V32H0V4H4Z" fill="#5cc8ff" opacity="0.12"/>
+  <path d="M4 0H78V4H82V32H78V36H4V32H0V4H4Z" fill="url(#sl)"/>
+  <path d="M4 0H78V4H82V32H78V36H4V32H0V4H4Z" fill="none" stroke="#5cc8ff" stroke-width="2"/>
+  <rect x="13" y="14.0" width="8" height="8" fill="#5cc8ff"><animate attributeName="opacity" values="1;0.2" calcMode="discrete" dur="1.2s" begin="-0.2s" repeatCount="indefinite"/></rect>
+  <text x="31" y="23.0" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="14" font-weight="700" fill="#5cc8ff">Java</text>
+</g></g>
+<g transform="translate(186 40)"><g>
+  <animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" calcMode="discrete" keyTimes="0;0.5;1" dur="1.8s" begin="-0.4s" repeatCount="indefinite"/>
+  <path d="M4 0H96V4H100V32H96V36H4V32H0V4H4Z" fill="#0d1233"/>
+  <path d="M4 0H96V4H100V32H96V36H4V32H0V4H4Z" fill="#ffb703" opacity="0.12"/>
+  <path d="M4 0H96V4H100V32H96V36H4V32H0V4H4Z" fill="url(#sl)"/>
+  <path d="M4 0H96V4H100V32H96V36H4V32H0V4H4Z" fill="none" stroke="#ffb703" stroke-width="2"/>
+  <rect x="13" y="14.0" width="8" height="8" fill="#ffb703"><animate attributeName="opacity" values="1;0.2" calcMode="discrete" dur="1.2s" begin="-0.4s" repeatCount="indefinite"/></rect>
+  <text x="31" y="23.0" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="14" font-weight="700" fill="#ffb703">Python</text>
+</g></g>
+<g transform="translate(298 40)"><g>
+  <animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" calcMode="discrete" keyTimes="0;0.5;1" dur="1.8s" begin="-0.6s" repeatCount="indefinite"/>
+  <path d="M4 0H131V4H135V32H131V36H4V32H0V4H4Z" fill="#0d1233"/>
+  <path d="M4 0H131V4H135V32H131V36H4V32H0V4H4Z" fill="#4ade80" opacity="0.12"/>
+  <path d="M4 0H131V4H135V32H131V36H4V32H0V4H4Z" fill="url(#sl)"/>
+  <path d="M4 0H131V4H135V32H131V36H4V32H0V4H4Z" fill="none" stroke="#4ade80" stroke-width="2"/>
+  <rect x="13" y="14.0" width="8" height="8" fill="#4ade80"><animate attributeName="opacity" values="1;0.2" calcMode="discrete" dur="1.2s" begin="-0.6s" repeatCount="indefinite"/></rect>
+  <text x="31" y="23.0" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="14" font-weight="700" fill="#4ade80">JavaScript</text>
+</g></g>
+<g transform="translate(445 40)"><g>
+  <animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" calcMode="discrete" keyTimes="0;0.5;1" dur="1.8s" begin="-0.8s" repeatCount="indefinite"/>
+  <path d="M4 0H70V4H74V32H70V36H4V32H0V4H4Z" fill="#0d1233"/>
+  <path d="M4 0H70V4H74V32H70V36H4V32H0V4H4Z" fill="#f4a6dc" opacity="0.12"/>
+  <path d="M4 0H70V4H74V32H70V36H4V32H0V4H4Z" fill="url(#sl)"/>
+  <path d="M4 0H70V4H74V32H70V36H4V32H0V4H4Z" fill="none" stroke="#f4a6dc" stroke-width="2"/>
+  <rect x="13" y="14.0" width="8" height="8" fill="#f4a6dc"><animate attributeName="opacity" values="1;0.2" calcMode="discrete" dur="1.2s" begin="-0.8s" repeatCount="indefinite"/></rect>
+  <text x="31" y="23.0" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="14" font-weight="700" fill="#f4a6dc">SQL</text>
+</g></g>
+<text x="24" y="118" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="13" font-weight="700" letter-spacing="3" fill="#8d9ad6">▸ WEB</text>
+<g transform="translate(24 132)"><g>
+  <animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" calcMode="discrete" keyTimes="0;0.5;1" dur="1.8s" begin="-1.0s" repeatCount="indefinite"/>
+  <path d="M4 0H78V4H82V32H78V36H4V32H0V4H4Z" fill="#0d1233"/>
+  <path d="M4 0H78V4H82V32H78V36H4V32H0V4H4Z" fill="#ff7a59" opacity="0.12"/>
+  <path d="M4 0H78V4H82V32H78V36H4V32H0V4H4Z" fill="url(#sl)"/>
+  <path d="M4 0H78V4H82V32H78V36H4V32H0V4H4Z" fill="none" stroke="#ff7a59" stroke-width="2"/>
+  <rect x="13" y="14.0" width="8" height="8" fill="#ff7a59"><animate attributeName="opacity" values="1;0.2" calcMode="discrete" dur="1.2s" begin="-1.0s" repeatCount="indefinite"/></rect>
+  <text x="31" y="23.0" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="14" font-weight="700" fill="#ff7a59">HTML</text>
+</g></g>
+<g transform="translate(118 132)"><g>
+  <animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" calcMode="discrete" keyTimes="0;0.5;1" dur="1.8s" begin="-1.2s" repeatCount="indefinite"/>
+  <path d="M4 0H70V4H74V32H70V36H4V32H0V4H4Z" fill="#0d1233"/>
+  <path d="M4 0H70V4H74V32H70V36H4V32H0V4H4Z" fill="#ff3df2" opacity="0.12"/>
+  <path d="M4 0H70V4H74V32H70V36H4V32H0V4H4Z" fill="url(#sl)"/>
+  <path d="M4 0H70V4H74V32H70V36H4V32H0V4H4Z" fill="none" stroke="#ff3df2" stroke-width="2"/>
+  <rect x="13" y="14.0" width="8" height="8" fill="#ff3df2"><animate attributeName="opacity" values="1;0.2" calcMode="discrete" dur="1.2s" begin="-1.2s" repeatCount="indefinite"/></rect>
+  <text x="31" y="23.0" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="14" font-weight="700" fill="#ff3df2">CSS</text>
+</g></g>
+<g transform="translate(204 132)"><g>
+  <animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" calcMode="discrete" keyTimes="0;0.5;1" dur="1.8s" begin="-1.4s" repeatCount="indefinite"/>
+  <path d="M4 0H87V4H91V32H87V36H4V32H0V4H4Z" fill="#0d1233"/>
+  <path d="M4 0H87V4H91V32H87V36H4V32H0V4H4Z" fill="#5cc8ff" opacity="0.12"/>
+  <path d="M4 0H87V4H91V32H87V36H4V32H0V4H4Z" fill="url(#sl)"/>
+  <path d="M4 0H87V4H91V32H87V36H4V32H0V4H4Z" fill="none" stroke="#5cc8ff" stroke-width="2"/>
+  <rect x="13" y="14.0" width="8" height="8" fill="#5cc8ff"><animate attributeName="opacity" values="1;0.2" calcMode="discrete" dur="1.2s" begin="-1.4s" repeatCount="indefinite"/></rect>
+  <text x="31" y="23.0" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="14" font-weight="700" fill="#5cc8ff">React</text>
+</g></g>
+<g transform="translate(307 132)"><g>
+  <animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" calcMode="discrete" keyTimes="0;0.5;1" dur="1.8s" begin="-0.0s" repeatCount="indefinite"/>
+  <path d="M4 0H148V4H152V32H148V36H4V32H0V4H4Z" fill="#0d1233"/>
+  <path d="M4 0H148V4H152V32H148V36H4V32H0V4H4Z" fill="#ffb703" opacity="0.12"/>
+  <path d="M4 0H148V4H152V32H148V36H4V32H0V4H4Z" fill="url(#sl)"/>
+  <path d="M4 0H148V4H152V32H148V36H4V32H0V4H4Z" fill="none" stroke="#ffb703" stroke-width="2"/>
+  <rect x="13" y="14.0" width="8" height="8" fill="#ffb703"><animate attributeName="opacity" values="1;0.2" calcMode="discrete" dur="1.2s" begin="-0.0s" repeatCount="indefinite"/></rect>
+  <text x="31" y="23.0" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="14" font-weight="700" fill="#ffb703">React Native</text>
+</g></g>
+<text x="24" y="210" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="13" font-weight="700" letter-spacing="3" fill="#8d9ad6">▸ DATABASES</text>
+<g transform="translate(24 224)"><g>
+  <animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" calcMode="discrete" keyTimes="0;0.5;1" dur="1.8s" begin="-0.2s" repeatCount="indefinite"/>
+  <path d="M4 0H104V4H108V32H104V36H4V32H0V4H4Z" fill="#0d1233"/>
+  <path d="M4 0H104V4H108V32H104V36H4V32H0V4H4Z" fill="#4ade80" opacity="0.12"/>
+  <path d="M4 0H104V4H108V32H104V36H4V32H0V4H4Z" fill="url(#sl)"/>
+  <path d="M4 0H104V4H108V32H104V36H4V32H0V4H4Z" fill="none" stroke="#4ade80" stroke-width="2"/>
+  <rect x="13" y="14.0" width="8" height="8" fill="#4ade80"><animate attributeName="opacity" values="1;0.2" calcMode="discrete" dur="1.2s" begin="-0.2s" repeatCount="indefinite"/></rect>
+  <text x="31" y="23.0" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="14" font-weight="700" fill="#4ade80">MongoDB</text>
+</g></g>
+<g transform="translate(144 224)"><g>
+  <animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" calcMode="discrete" keyTimes="0;0.5;1" dur="1.8s" begin="-0.4s" repeatCount="indefinite"/>
+  <path d="M4 0H131V4H135V32H131V36H4V32H0V4H4Z" fill="#0d1233"/>
+  <path d="M4 0H131V4H135V32H131V36H4V32H0V4H4Z" fill="#f4a6dc" opacity="0.12"/>
+  <path d="M4 0H131V4H135V32H131V36H4V32H0V4H4Z" fill="url(#sl)"/>
+  <path d="M4 0H131V4H135V32H131V36H4V32H0V4H4Z" fill="none" stroke="#f4a6dc" stroke-width="2"/>
+  <rect x="13" y="14.0" width="8" height="8" fill="#f4a6dc"><animate attributeName="opacity" values="1;0.2" calcMode="discrete" dur="1.2s" begin="-0.4s" repeatCount="indefinite"/></rect>
+  <text x="31" y="23.0" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="14" font-weight="700" fill="#f4a6dc">PostgreSQL</text>
+</g></g>
+<text x="24" y="302" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="13" font-weight="700" letter-spacing="3" fill="#8d9ad6">▸ DATA</text>
+<g transform="translate(24 316)"><g>
+  <animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" calcMode="discrete" keyTimes="0;0.5;1" dur="1.8s" begin="-0.6s" repeatCount="indefinite"/>
+  <path d="M4 0H87V4H91V32H87V36H4V32H0V4H4Z" fill="#0d1233"/>
+  <path d="M4 0H87V4H91V32H87V36H4V32H0V4H4Z" fill="#ff7a59" opacity="0.12"/>
+  <path d="M4 0H87V4H91V32H87V36H4V32H0V4H4Z" fill="url(#sl)"/>
+  <path d="M4 0H87V4H91V32H87V36H4V32H0V4H4Z" fill="none" stroke="#ff7a59" stroke-width="2"/>
+  <rect x="13" y="14.0" width="8" height="8" fill="#ff7a59"><animate attributeName="opacity" values="1;0.2" calcMode="discrete" dur="1.2s" begin="-0.6s" repeatCount="indefinite"/></rect>
+  <text x="31" y="23.0" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="14" font-weight="700" fill="#ff7a59">NumPy</text>
+</g></g>
+<g transform="translate(127 316)"><g>
+  <animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" calcMode="discrete" keyTimes="0;0.5;1" dur="1.8s" begin="-0.8s" repeatCount="indefinite"/>
+  <path d="M4 0H96V4H100V32H96V36H4V32H0V4H4Z" fill="#0d1233"/>
+  <path d="M4 0H96V4H100V32H96V36H4V32H0V4H4Z" fill="#ff3df2" opacity="0.12"/>
+  <path d="M4 0H96V4H100V32H96V36H4V32H0V4H4Z" fill="url(#sl)"/>
+  <path d="M4 0H96V4H100V32H96V36H4V32H0V4H4Z" fill="none" stroke="#ff3df2" stroke-width="2"/>
+  <rect x="13" y="14.0" width="8" height="8" fill="#ff3df2"><animate attributeName="opacity" values="1;0.2" calcMode="discrete" dur="1.2s" begin="-0.8s" repeatCount="indefinite"/></rect>
+  <text x="31" y="23.0" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="14" font-weight="700" fill="#ff3df2">Pandas</text>
+</g></g>
+<text x="24" y="394" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="13" font-weight="700" letter-spacing="3" fill="#8d9ad6">▸ TOOLS</text>
+<g transform="translate(24 408)"><g>
+  <animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" calcMode="discrete" keyTimes="0;0.5;1" dur="1.8s" begin="-1.0s" repeatCount="indefinite"/>
+  <path d="M4 0H70V4H74V32H70V36H4V32H0V4H4Z" fill="#0d1233"/>
+  <path d="M4 0H70V4H74V32H70V36H4V32H0V4H4Z" fill="#5cc8ff" opacity="0.12"/>
+  <path d="M4 0H70V4H74V32H70V36H4V32H0V4H4Z" fill="url(#sl)"/>
+  <path d="M4 0H70V4H74V32H70V36H4V32H0V4H4Z" fill="none" stroke="#5cc8ff" stroke-width="2"/>
+  <rect x="13" y="14.0" width="8" height="8" fill="#5cc8ff"><animate attributeName="opacity" values="1;0.2" calcMode="discrete" dur="1.2s" begin="-1.0s" repeatCount="indefinite"/></rect>
+  <text x="31" y="23.0" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="14" font-weight="700" fill="#5cc8ff">Git</text>
+</g></g>
+<g transform="translate(110 408)"><g>
+  <animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" calcMode="discrete" keyTimes="0;0.5;1" dur="1.8s" begin="-1.2s" repeatCount="indefinite"/>
+  <path d="M4 0H96V4H100V32H96V36H4V32H0V4H4Z" fill="#0d1233"/>
+  <path d="M4 0H96V4H100V32H96V36H4V32H0V4H4Z" fill="#ffb703" opacity="0.12"/>
+  <path d="M4 0H96V4H100V32H96V36H4V32H0V4H4Z" fill="url(#sl)"/>
+  <path d="M4 0H96V4H100V32H96V36H4V32H0V4H4Z" fill="none" stroke="#ffb703" stroke-width="2"/>
+  <rect x="13" y="14.0" width="8" height="8" fill="#ffb703"><animate attributeName="opacity" values="1;0.2" calcMode="discrete" dur="1.2s" begin="-1.2s" repeatCount="indefinite"/></rect>
+  <text x="31" y="23.0" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Courier New',monospace" font-size="14" font-weight="700" fill="#ffb703">GitHub</text>
+</g></g>
+</svg>
