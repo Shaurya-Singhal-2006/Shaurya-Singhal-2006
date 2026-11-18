@@ -12,6 +12,7 @@
 <br/>
 <br/>
 
+<a href="https://shaurya-singhal.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-00c389?style=for-the-badge&amp;logo=vercel&amp;logoColor=white&amp;labelColor=0d1233" alt="Portfolio"/></a>
 <a href="https://www.linkedin.com/in/shauryasinghal2006/"><img src="https://img.shields.io/badge/LinkedIn-Connect-2b6fd6?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white&amp;labelColor=0d1233" alt="LinkedIn"/></a>
 <a href="https://leetcode.com/u/Shaurya-Singhal-2006"><img src="https://img.shields.io/badge/LeetCode-Follow-ffa116?style=for-the-badge&amp;logo=leetcode&amp;logoColor=white&amp;labelColor=0d1233" alt="LeetCode"/></a>
 <a href="mailto:shauryasinghal206@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-ff3df2?style=for-the-badge&amp;logo=gmail&amp;logoColor=white&amp;labelColor=0d1233" alt="Email"/></a>
